@@ -1,6 +1,10 @@
-Hades Flatrock VR Headset
+**Hades Flatrock VR Headset**
 
 ![alt text](https://img.shields.io/badge/Status-Experimental-red.svg)
+
+![Weixin Image_20250708134150](https://github.com/user-attachments/assets/7ca0bdb0-167a-41a9-b19b-b0c957666b42)
+![Weixin Image_20250708134155](https://github.com/user-attachments/assets/df767eb2-cc89-47c3-9735-044e2edbed0b)
+
 Hades Flatrock is an experimental, small form-factor (SFF) VR headset that runs on the open-source HadesVR driver.
 
 [WARNING]
